@@ -2,8 +2,7 @@
 
 ![Vite](https://img.shields.io/badge/Vite-5.x-%23646CFF?logo=vite&logoColor=white)
 ![Topics](https://img.shields.io/badge/Temas-5100%2B-blue)
-![Status](https.img.shields.io/badge/Estado-Completo-brightgreen)
-
+ 
 Bienvenido al programa de estudios más exhaustivo jamás creado para dominar **Vite** y todo el ecosistema de desarrollo web moderno. Este no es solo un temario, es un mapa completo que te llevará desde los fundamentos más básicos hasta convertirte en un arquitecto de soluciones de nivel empresarial.
 
 Este repositorio organiza más de 5,100 temas en 51 módulos detallados, cubriendo cada faceta del desarrollo, despliegue, optimización y extensión de aplicaciones con Vite.
